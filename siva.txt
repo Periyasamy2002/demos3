@@ -1,1 +1,10 @@
- this my
+add - commit - push
+
+branch create branch1 
+
+ # open and work add new file
+  dj.html
+
+ marge the file
+  main - branch1
+ 
