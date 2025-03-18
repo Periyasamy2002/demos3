@@ -9,3 +9,9 @@ branch create branch1
   main - branch1
  
 this 
+
+
+git pull
+
+git checkout name
+ 
